@@ -1,6 +1,13 @@
 # AI Shayani Generator
 
-This project generates Shayari (poetry) using AI models.
+The Shayari Generator is a web application that allows users to generate Shayari (poetry) based on a keyword provided by the user. The application utilizes Gemini AI integration to generate unique and creative Shayari that matches the given keyword.
+
+## Features
+
+- **Keyword-Based Shayari Generation:** Users can input a keyword, and the application will generate a Shayari related to that keyword.
+- **Gemini AI Integration:** The project leverages the power of Gemini AI to generate high-quality, creative Shayari.
+- **Responsive Design:** The application is designed to be responsive, ensuring a seamless experience on both desktop and mobile devices.
+- **User-Friendly Interface:** The intuitive and user-friendly interface makes it easy for users to generate and enjoy Shayari.
 
 ## Getting Started
 
